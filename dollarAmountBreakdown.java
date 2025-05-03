@@ -10,3 +10,7 @@ public class HW1{
         // Asks the user to enter a dollar amount
         System.out.print("Enter your dollar amount: ");
         amount = myScanner.nextDouble();
+
+        // Converts a dollar amount into an integer representation of cents
+        int total = (int)Math.round(amount * 100);
+        

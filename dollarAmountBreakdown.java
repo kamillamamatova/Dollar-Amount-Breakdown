@@ -20,3 +20,7 @@ public class HW1{
         hundreds = total / 10000;
         System.out.println("\t-\t" + hundreds + " hundred(s)");
         total = total % 10000;
+
+        fifties = total / 5000;
+        System.out.println("\t-\t" + fifties + " fifty(s)");
+        total = total % 5000;

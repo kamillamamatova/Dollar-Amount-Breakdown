@@ -30,3 +30,4 @@ public class HW1{
         total = total % 2000;
 
         tens = total / 1000;
+        System.out.println("\t-\t" + tens + " ten(s)");

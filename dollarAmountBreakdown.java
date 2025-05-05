@@ -24,3 +24,5 @@ public class HW1{
         fifties = total / 5000;
         System.out.println("\t-\t" + fifties + " fifty(s)");
         total = total % 5000;
+
+        twenties = total / 2000;

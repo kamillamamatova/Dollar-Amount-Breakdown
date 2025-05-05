@@ -13,4 +13,10 @@ public class HW1{
 
         // Converts a dollar amount into an integer representation of cents
         int total = (int)Math.round(amount * 100);
-        
+
+        System.out.println("\nYou have: \n");
+
+        // Calculate the dollar amount in different terms and print it out
+        hundreds = total / 10000;
+        System.out.println("\t-\t" + hundreds + " hundred(s)");
+        total = total % 10000;

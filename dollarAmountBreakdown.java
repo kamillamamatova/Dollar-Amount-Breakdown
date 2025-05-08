@@ -32,3 +32,5 @@ public class HW1{
         tens = total / 1000;
         System.out.println("\t-\t" + tens + " ten(s)");
         total = total % 1000;
+
+        fives = total / 500;

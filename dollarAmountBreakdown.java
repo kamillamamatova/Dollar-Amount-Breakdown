@@ -36,3 +36,5 @@ public class HW1{
         fives = total / 500;
         System.out.println("\t-\t" + fives + " five(s)");
         total = total % 500;
+
+        ones = total / 100;

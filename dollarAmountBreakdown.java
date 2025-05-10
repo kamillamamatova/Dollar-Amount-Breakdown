@@ -38,3 +38,4 @@ public class HW1{
         total = total % 500;
 
         ones = total / 100;
+        System.out.println("\t-\t" + ones + " one(s)");

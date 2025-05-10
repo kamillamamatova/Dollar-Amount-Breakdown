@@ -43,3 +43,4 @@ public class HW1{
 
         quarters = total / 25;
         System.out.println("\t-\t" + quarters + " quarter(s)");
+        total = total % 25;

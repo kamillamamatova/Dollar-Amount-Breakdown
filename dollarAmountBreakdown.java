@@ -39,3 +39,4 @@ public class HW1{
 
         ones = total / 100;
         System.out.println("\t-\t" + ones + " one(s)");
+        total = total % 100;

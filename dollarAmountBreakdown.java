@@ -45,6 +45,7 @@ public class HW1{
         System.out.println("\t-\t" + quarters + " quarter(s)");
         total = total % 25;
 
+        nickels = total / 5;
         dimes = total / 10;
         System.out.println("\t-\t" + dimes + " dime(s)");
         total = total % 10;

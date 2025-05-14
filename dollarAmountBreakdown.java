@@ -47,5 +47,4 @@ public class HW1{
 
         dimes = total / 10;
         System.out.println("\t-\t" + dimes + " dime(s)");
-        
         total = total % 10;

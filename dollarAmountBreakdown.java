@@ -54,3 +54,4 @@ public class HW1{
         total = total % 5;
 
         cents = total;
+        System.out.println("\t-\t" + cents + " cent(s)\n");

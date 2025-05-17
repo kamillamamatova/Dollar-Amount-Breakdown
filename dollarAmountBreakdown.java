@@ -50,3 +50,5 @@ public class HW1{
         total = total % 10;
 
         nickels = total / 5;
+        System.out.println("\t-\t" + nickels + " nickel(s)");
+        

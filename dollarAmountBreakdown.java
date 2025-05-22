@@ -60,3 +60,4 @@ public class HW1{
 
         myScanner.close();
     }
+}

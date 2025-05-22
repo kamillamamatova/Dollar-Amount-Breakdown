@@ -57,3 +57,5 @@ public class HW1{
         System.out.println("\t-\t" + cents + " cent(s)\n");
 
         System.out.println("Goodbye!");
+
+        myScanner.close();

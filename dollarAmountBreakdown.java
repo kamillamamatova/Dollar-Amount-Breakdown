@@ -59,3 +59,4 @@ public class HW1{
         System.out.println("Goodbye!");
 
         myScanner.close();
+    }

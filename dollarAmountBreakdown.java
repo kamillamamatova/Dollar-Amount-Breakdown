@@ -55,3 +55,5 @@ public class HW1{
 
         cents = total;
         System.out.println("\t-\t" + cents + " cent(s)\n");
+
+        System.out.println("Goodbye!");
